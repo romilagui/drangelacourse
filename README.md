@@ -128,6 +128,39 @@ successors".[14]</p>
     <li><a href="https://www.pinterest.com/" target="_blank">Pinterest</a></li>
     </li>
  </ol>
+
+  <h1>Convite para o meu Aniversário</h1>
+    <p>O meu aniversário será no dia 20 de Agosto de 2026</p>
+     <img src="https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg" alt="Birthday Cake" width="300">
+     <h2>O que trazer:</h2>
+    <ul>
+        <li>Flores, eu amo flores</li>
+        <li>Frutas para fazer sumos naturais</li>
+        <li>Um enorme apetite, terá muita comida</li>
+    </ul>
+    <h2>RSVP:</h2>
+    <p>Por favor, confirme sua presença até 1º de Agosto de 2026.</p>
+    <h2>Directions:</h2>
+    <p>Click the link below for directions to the venue:</p>
+    <a href="https://www.google.com/maps/place/Angomart+-+Benfica1/@-8.9299799,13.1596099,1074m/data=!3m2!1e3!4b1!4m6!3m5!1s0x1a518ac7e487a31d:0x991ba24e405a00f0!8m2!3d-8.9299852!4d13.1621848!16s%2Fg%2F11b7m98knq!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDYyMS4wIKXMDSoASAFQAw%3D%3D" target="_blank">View on Google Maps</a>    
+
+<!-- Example image URL 
+https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg-->
+
+<!-- Example Google Maps Link 
+https://www.google.com/maps/@35.7040744,139.5577317,3a,75y,289.6h,87.01t,0.72r/data=!3m6!1e1!3m4!1sgT28ssf0BB2LxZ63JNcL1w!2e0!7i13312!8i6656-->
+
+<h1>Image Elements</h1>
+<h1> I'am a cat person</h1>
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/kitten.jpeg" alt="A cute kitten" width="300">
+
+<!-- Puppy image URL -->
+ <h1> I'am a dog person</h1>
+https://raw.githubusercontent.com/appbrewery/webdev/main/puppy.gif
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/puppy.gif" alt="A cute puppy" width="300">
+
+
+
  
 </body>
 </html>
